@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @zzasaa-jpg(MahendraKumar)
-- 👀 I’m interested in Coding, problem solving, reading books.
-- 🌱 I’m currently learning HTML, CSS, JS, REACT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email(zzsdrt354@gmail.com)
-
-<!---
-zzasaa-jpg/zzasaa-jpg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# `Hi i'm @zzasaa-jpg (MahendraKumar)`
+## I am currently learning front-end development. Html, Css, JavaScript, ReactJs, Tailwind Css Techknoldeges learning in progress.
+## How to reach me ->
+#### `Email-zzsdrt354@gmail.com`
+#### `LinkedIn-https://www.linkedin.com/in/mahendra-kumar-44627a243/`
+#### `X(Twitter)-https://twitter.com/Mahendr38360512`
