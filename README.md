@@ -5,6 +5,4 @@
 [Email Me](mailto:zzsdrt354@gmail.com)  
 [Connect with me on LinkedIn](https://www.linkedin.com/in/mahendra-kumar-44627a243/)  
 [X(Twitter)](https://twitter.com/Mahendr38360512)  
-#### `Email-zzsdrt354@gmail.com`
-#### `LinkedIn-https://www.linkedin.com/in/mahendra-kumar-44627a243/`
-#### `X(Twitter)-https://twitter.com/Mahendr38360512`
+
