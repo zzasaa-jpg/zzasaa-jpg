@@ -8,8 +8,6 @@ ___
 
 | S.I. NO | PROJECT TITLE | STACK | GITHUB | LINK |
 |---------|---------------|-------|--------|------|
-|01       |Node TODO Application|MongoDB, Express,  HTML, CSS, JS|yes| TODO - [[LINK](https://node-todo-2-076c.onrender.com/)]|
-
 ___
 
 ## How to reach me
