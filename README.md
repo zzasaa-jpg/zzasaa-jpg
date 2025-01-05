@@ -8,6 +8,7 @@ ___
 
 | S.I. NO | PROJECT TITLE | STACK | GITHUB | LINK |
 |---------|---------------|-------|--------|------|
+|01|Todo Application|Html, Css, Js, API's, Mongoose, Node.js, Express.js|Yes|-|
 ___
 
 ## How to reach me
