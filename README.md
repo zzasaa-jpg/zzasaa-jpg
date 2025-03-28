@@ -1,13 +1,6 @@
 # Hi i'm @zzasaa-jpg (MahendraKumar)
 
-<video width="600" controls>
-  <source src="Untitled design (4).mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-___
-
-## BIO
+## Bio
 My name is MahendraKumar from Karnataka, Yadgir. I am currently learning **FULL_STACK** Development. **STACK** was **MERN STACK**. This md file shows the **My pojects** and Bio. I can build front-end and back-end projects. Little bit of **DSA** in cpp. **Self thought person**.
 ___
 
