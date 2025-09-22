@@ -31,6 +31,7 @@
 |02|WWN(World Wild News)|React, API's|Yes|[WWN](https://wwn.netlify.app/)|
 |03|Web Timer|Html, Css, Js|Yes|[Web Timer](https://website-timer.netlify.app/)
 |04|Path Resolver|Html, Css, Js|Yes|[Path Resolver](https://resolve-path.netlify.app/)
+|05|Puzzle Game|Html, Css, Js|Yes|[Puzzle Game](https://357-puzzle.netlify.app/)
 
 
 ### *Detail Information of projects checkout Portfolio: [Portfolio]()*
