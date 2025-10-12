@@ -18,7 +18,7 @@
 | S.I. NO | PROJECT TITLE | TECH STACK | GITHUB | LINK |
 |---------|---------------|-------|--------|------|
 |01|Todo Application|Html, Css, Js, Mongoose, Node.js, Express.js, REST-API's|Yes|-|
-|02|Portpolio Frontend|Html, Css, Js|Yes|[Portfolio]()|
+|02|Portfolio|Html, Css, Js|Yes|[Portfolio](https://mahendra-kumar-portfolio.netlify.app/)|
 |03|Github Search Application|Html, Css, Js, Node.js, Express.js, REST-API's|Yes|[Github Search Application](https://github-h8w5.onrender.com)|
 |04|FakeBank (BMS)|Html, Css, Js, Node.js, Http, REST-API's|Yes|-|
 |05|Coin_of|Html, Css, Js, Mongoose, Node.js, Express.js, REST-API's|YES|[Coin_of](https://coin-of.netlify.app/)|
