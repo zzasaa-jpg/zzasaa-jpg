@@ -28,7 +28,7 @@
 | S.I. NO | PROJECT TITLE | TECH STACK | GITHUB | LINK |
 |---------|---------------|-------|--------|------|
 |01|Weather Application|React, API's|Yes|[Weather Application](https://weather-status-web.netlify.app/)|
-|02|WWN(World Wild News)|React, API's|Yes|[WWN](https://wwn.netlify.app/)|
+|02|WWN(World Wide News)|React, API's|Yes|[WWN](https://wwn.netlify.app/)|
 |03|Web Timer|Html, Css, Js|Yes|[Web Timer](https://website-timer.netlify.app/)
 |04|Path Resolver|Html, Css, Js|Yes|[Path Resolver](https://resolve-path.netlify.app/)
 |05|Puzzle Game|Html, Css, Js|Yes|[Puzzle Game](https://357-puzzle.netlify.app/)
