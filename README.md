@@ -37,9 +37,7 @@
 
 | S.I. NO | PROBLEM NAME | DESCRIPTION | GITHUB_LINK |
 |---------|---------------|-------|--------|
-|01|middle_number_arithmetic_operations_problem|Given an integer, find the middle value, perform the arithmetic operations.
-What is a middle number? In any odd digit, the middle number is easily found
-by this formula “(Number length + 1) / 2”.|[Problem github link](https://github.com/zzasaa-jpg/middle_number_arithmetic_operations_problem)|
+|01|middle_number_arithmetic_operations_problem|Given an integer, find the middle value, perform the arithmetic operations. What is a middle number? In any odd digit, the middle number is easily found by this formula “(Number length + 1) / 2”.|[Problem github link](https://github.com/zzasaa-jpg/middle_number_arithmetic_operations_problem)|
 
 ### *Detail Information of projects checkout Portfolio: [Portfolio](https://mahendra-kumar-portfolio.netlify.app/)*
 
