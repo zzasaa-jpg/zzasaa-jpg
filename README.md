@@ -41,6 +41,15 @@
 
 ### *Detail Information of projects checkout Portfolio: [Portfolio](https://mahendra-kumar-portfolio.netlify.app/)*
 
+---
+> Tools for development
+
+| S.I.NO | TOOL NAME | DESCRIPTION | GITHUB_LINK |
+|--------|-----------|-------------|-------------|
+|01|CLI Time-Tracking Tool in C++|To track actual engineering effort, To stay disciplined during long system-level work, To support development journey|[GitHub Link](https://github.com/zzasaa-jpg/tick)|
+
+---
+
 > How to reach me
 - zzsdrt354@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/mahendra-kumar-44627a243/)
