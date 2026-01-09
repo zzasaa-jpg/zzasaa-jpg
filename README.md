@@ -1,19 +1,30 @@
 # Hi i'm @zzasaa-jpg (MahendraKumar)
 
-> *Bio: My name is MahendraKumar from Karnataka, Yadgir. I am currently learning **FULL_STACK** Development. **TECH STACK** was **MERN STACK**. This md file shows the **My projects** and Bio. I can build front-end and back-end projects. Little bit of **DSA** in cpp. **Self thought person***.
+My name is Mahendra Kumar from Yadgir, Karnataka, India. I am currently focused on **low-level systems development and computer architecture**, building a **virtual CPU and custom instruction set** from scratch in C++.  
 
-> Skills:
+I have experience in:
+- **CPU design, memory management, and instruction decoding**  
+- **Operating system concepts and low-level debugging**  
+- Supporting C++ CLI tools for time tracking and file transfer  
+
+Additionally, I have worked on **full-stack development projects** using the **MERN stack**, building both front-end and back-end applications.  
+
+I am a **self-taught developer** passionate about systems programming, operating systems, and building software from the ground up.
+
+
+## Skills:
 
 | S.I. NO | Tech Stack | Technologies |
 |---------|-------|-----------|
-|01|Front-End|Html, Css, Js, React|
-|02|Back-End|Node.js, Express.js, REST-API's|
-|03|DataBase|MongoDB, FireBase|
-|04|Version control|Git, Github|
-|05|Other tools|Video Editing(Not Professional), Google Docs|
-|06|Programming Language|Python, C++|
+|01|Low-Level / Systems|C++, Computer Architecture, CPU Design, Memory Management, Instruction Set Architecture (ISA), Operating Systems, Debugging, Systems Programming|
+|02|Front-End|HTML, CSS, JavaScript, React|
+|03|Back-End|Node.js, Express.js, REST API's|
+|04|DataBase|MongoDB, FireBase|
+|05|Version control|Git, Github|
+|06|Other tools|Video Editing(Not Professional), Google Docs|
+|07|Programming Language|Python, C++|
 
-> Projects by **MERN**
+## Projects by **MERN**
 
 | S.I. NO | PROJECT TITLE | TECH STACK | GITHUB | LINK |
 |---------|---------------|-------|--------|------|
@@ -23,7 +34,7 @@
 |04|FakeBank (BMS)|Html, Css, Js, Node.js, Http, REST-API's|Yes|-|
 |05|Coin_of|Html, Css, Js, Mongoose, Node.js, Express.js, REST-API's|YES|[Coin_of](https://coin-of.netlify.app/)|
 
-> Projects by **Front End**
+## Projects by **Front End**
 
 | S.I. NO | PROJECT TITLE | TECH STACK | GITHUB | LINK |
 |---------|---------------|-------|--------|------|
@@ -33,16 +44,16 @@
 |04|Path Resolver|Html, Css, Js|Yes|[Path Resolver](https://resolve-path.netlify.app/)
 |05|Puzzle Game|Html, Css, Js|Yes|[Puzzle Game](https://357-puzzle.netlify.app/)
 
-> Contributing on new problem finding
+## Contributing on new problem finding
 
 | S.I. NO | PROBLEM NAME | DESCRIPTION | GITHUB_LINK |
 |---------|---------------|-------|--------|
 |01|middle_number_arithmetic_operations_problem|Given an integer, find the middle value, perform the arithmetic operations. What is a middle number? In any odd digit, the middle number is easily found by this formula “(Number length + 1) / 2”.|[Problem github link](https://github.com/zzasaa-jpg/middle_number_arithmetic_operations_problem)|
 
-### *Detail Information of projects checkout Portfolio: [Portfolio](https://mahendra-kumar-portfolio.netlify.app/)*
+*For detailed project information, check out my: [Portfolio](https://mahendra-kumar-portfolio.netlify.app/)*
 
 ---
-> Tools for development
+## Tools for development
 
 | S.I.NO | TOOL NAME | DESCRIPTION | GITHUB_LINK |
 |--------|-----------|-------------|-------------|
@@ -50,7 +61,7 @@
 
 ---
 
-> How to reach me
+## How to reach me
 - zzsdrt354@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/mahendra-kumar-44627a243/)
 - [GitHub](https://github.com/zzasaa-jpg)
