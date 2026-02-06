@@ -58,6 +58,7 @@ I am a **self-taught developer** passionate about systems programming, operating
 | S.I.NO | TOOL NAME | DESCRIPTION | GITHUB_LINK |
 |--------|-----------|-------------|-------------|
 |01|CLI Time-Tracking Tool in C++|To track actual engineering effort, To stay disciplined during long system-level work, To support development journey|[GitHub Link](https://github.com/zzasaa-jpg/tick)|
+|02|CLI TxT Editor in C++|VR CPU development tool, zero dependency, run time packages, libraries. Only Raw C++, Windows Console 32 API. Offline by design.|[GitHub Link](https://github.com/zzasaa-jpg/Text_Editor_TxT_in_CPP)|
 
 ---
 
